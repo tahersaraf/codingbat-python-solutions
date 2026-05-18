@@ -1,0 +1,14 @@
+"""
+CodingBat: problem_name
+https://codingbat.com/prob/p1234
+
+// placeholder for question
+"""
+
+def function(a, b):
+    return a + b;
+
+# Tests
+if __name__ == "__main__":
+    print(function(1,1))
+    print(function(2,2))
