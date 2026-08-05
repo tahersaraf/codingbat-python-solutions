@@ -8,7 +8,7 @@ My solutions to [CodingBat](https://codingbat.com/python) Python exercises.
 
 ## Progress
 - ✅ Warmup-1
-- 🟩 Warmup-2
+- ✅ Warmup-2
 - 🟩 String-1
 - 🟩 List-1
 - 🟩 Logic-1
