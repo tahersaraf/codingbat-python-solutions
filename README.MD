@@ -10,7 +10,7 @@ My solutions to [CodingBat](https://codingbat.com/python) Python exercises.
 - ✅ Warmup-1
 - ✅ Warmup-2
 - ✅ String-1
-- 🟩 List-1
+- ✅ List-1
 - 🟩 Logic-1
 - 🟩 Logic-2
 - 🟩 String-2
