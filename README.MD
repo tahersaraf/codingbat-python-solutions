@@ -13,5 +13,5 @@ My solutions to [CodingBat](https://codingbat.com/python) Python exercises.
 - ✅ List-1
 - ✅ Logic-1
 - ✅ Logic-2
-- ⬜ String-2
+- ✅ String-2
 - ⬜ List-2
