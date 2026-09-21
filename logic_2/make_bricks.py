@@ -11,7 +11,7 @@ def make_bricks(small, big, goal):
     elif goal % 5 > small:
         return False
     else:
-        return True
+        return True 
     
 
 # Tests
